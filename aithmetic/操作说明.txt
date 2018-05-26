@@ -1,0 +1,3 @@
+Arithmetic.exe -n   //生成四则运算题目
+Arithmetic.exe -c   //生成题目并判断用户输入对错，计算得分
+Arithmetic.exe -e file_path  //打开文件并读出题目，计算答案输出
